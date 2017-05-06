@@ -1,6 +1,6 @@
-# Learn Spring Data JPA using Spring Boot
+# Spring Data JPA using Spring Boot
 
-Basic CRUD operations using spring boot with Apache Darby embedded database.
+Basic CRUD operations using Spring Boot with Apache Derby embedded database.
 
 
 
